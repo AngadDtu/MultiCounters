@@ -14,6 +14,6 @@ Android Studio
 
 Sounds from adobeflash.com
 
-How to Run the App?
+#How to Run the App?
 
 First download the source source code ,build gradle in any android sdk(studio/eclipse) and then Run the code in your device.
